@@ -5,11 +5,11 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 
 ## Table of contents
 
-- [Listen to music](#listening-to-music)
+- [Listen to music](#listen-to-music)
 - [Visualise the music you are listening to](#visualise-the-music-you-are-listening-to)
 - [Access related awesome list](#access-related-awesome-list)
 
-## Listening to music
+## Listen to music
 
 - [7Digital](https://www.7digital.com/)
 - [All Music](http://www.allmusic.com/)
