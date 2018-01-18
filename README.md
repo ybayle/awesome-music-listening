@@ -70,6 +70,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [ODG Prod](http://odgprod.com/)
 - [Pandora](http://www.pandora.com/restricted)
 - [Qobuz](https://www.qobuz.com)
+- [Qwant Music](https://www.qwant.com/music)
 - [Radiooooo](http://radiooooo.com/)
 - [Radio Paradise](http://www.radioparadise.com)
 - [Rap World Map](http://rapworldmap.com/)
