@@ -93,6 +93,8 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [ultimateclassicrock](http://ultimateclassicrock.com/talk-box-songs/)
 - [Ziklibrenbib](http://www.acim.asso.fr/ziklibrenbib/)
 
+[Go back to top](#awesome-music-listening)
+
 ## Visualise the music you are listening to
 
 - [Beat Salon](http://beatsalon.xyz/serve/ikGyZh0VbPQ)
@@ -105,6 +107,8 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Phenicx](http://phenicx.com/)
 - [Torus](https://mnmxmx.github.io/audio-visualizer-torus/dst/)
 
+[Go back to top](#awesome-music-listening)
+
 ## Access related awesome list
 
 - [Awesome Deep Learning applied to Music](https://github.com/ybayle/awesome-deep-learning-music)
@@ -113,3 +117,5 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Awesome Music Production](https://github.com/adius/awesome-music-production)
 - [Awesome Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio)
 - [Awesome Sheet Music](https://github.com/adius/awesome-sheet-music)
+
+[Go back to top](#awesome-music-listening)
