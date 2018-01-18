@@ -14,6 +14,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [7Digital](https://www.7digital.com/)
 - [All Music](http://www.allmusic.com/)
 - [Amazon Music](https://music.amazon.com)
+- [Anghami](https://www.anghami.com/)
 - [Apple Music](https://www.apple.com/music)
 - [Arte Dig It](http://creative.arte.tv/fr/series/dig-it)
 - [Arte Sound system](http://creative.arte.tv/fr/soundsystem)
@@ -91,6 +92,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Torrent Tunes](http://ww8.torrenttunes.ml/)
 - [Tribe Of Noise](https://www.tribeofnoise.com/)
 - [Tubeats](http://tubeats.com/register)
+- [TuneIn](https://tunein.com/)
 - [ultimateclassicrock](http://ultimateclassicrock.com/talk-box-songs/)
 - [Ziklibrenbib](http://www.acim.asso.fr/ziklibrenbib/)
 
