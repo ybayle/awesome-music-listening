@@ -1,12 +1,13 @@
 # Awesome Music Listening [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome websites dedicated to listening to music and a list of softwares for pleasant music visualisation.
+You can contribute and suggest links by submitting an Issue or a Pull Request!
 
 ## Table of contents
 
-[Listen to music](#listening-to-music))
-[Visualise the music you are listening to](#visualise-the-music-you-are-listening-to))
-[Access related awesome list](#access-related-awesome-list-on-music))
+- [Listen to music](#listening-to-music)
+- [Visualise the music you are listening to](#visualise-the-music-you-are-listening-to)
+- [Access related awesome list](#access-related-awesome-list)
 
 ## Listening to music
 
@@ -96,18 +97,19 @@ A curated list of awesome websites dedicated to listening to music and a list of
 
 - [Beat Salon](http://beatsalon.xyz/serve/ikGyZh0VbPQ)
 - [Clubber](https://github.com/wizgrav/clubber)
-- [Conference](http://iui.acm.org/2018/) and [description](https://iui2018milc.github.io/)
+- [Intelligent User Interfaces](http://iui.acm.org/2018/) and [Conference description](https://iui2018milc.github.io/)
 - [Dot Piano](https://dotpiano.com/B885mV6krBN)
 - [Dunya](https://github.com/MTG/dunya-desktop)
+- [Morphyre](http://www.morphyre.com/)
 - [Off The Staff](https://www.c82.net/offthestaff/?id=2)
 - [Phenicx](http://phenicx.com/)
 - [Torus](https://mnmxmx.github.io/audio-visualizer-torus/dst/)
 
 ## Access related awesome list
 
+- [Awesome Deep Learning applied to Music](https://github.com/ybayle/awesome-deep-learning-music)
 - [Awesome Lists](https://github.com/sindresorhus/awesome)
 - [Awesome Music](https://github.com/ciconia/awesome-music)
 - [Awesome Music Production](https://github.com/adius/awesome-music-production)
-- [Awesome Sheet Music](https://github.com/adius/awesome-sheet-music)
-- [Awesome Deep Learning applied to Music](https://github.com/ybayle/awesome-deep-learning-music)
 - [Awesome Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio)
+- [Awesome Sheet Music](https://github.com/adius/awesome-sheet-music)
