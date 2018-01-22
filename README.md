@@ -68,6 +68,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Napster](https://us.napster.com/)
 - [New Grounds](https://www.newgrounds.com/audio/)
 - [Next Big Sound](https://blog.nextbigsound.com/)
+- [Nuclear](https://github.com/nukeop/nuclear)
 - [ODG Prod](http://odgprod.com/)
 - [Pandora](http://www.pandora.com/restricted)
 - [Qobuz](https://www.qobuz.com)
