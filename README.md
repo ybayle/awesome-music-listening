@@ -5,11 +5,12 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 
 ## Table of contents
 
-- [Listen to music](#listen-to-music)
+- [Listen to music on the web](#listen-to-music-on-the-web)
+- [Music player app](#music-player-app)
 - [Visualise the music you are listening to](#visualise-the-music-you-are-listening-to)
 - [Access related awesome list](#access-related-awesome-list)
 
-## Listen to music
+## Listen to music on the web
 
 - [7Digital](https://www.7digital.com/)
 - [All Music](http://www.allmusic.com/)
@@ -68,7 +69,6 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Napster](https://us.napster.com/)
 - [New Grounds](https://www.newgrounds.com/audio/)
 - [Next Big Sound](https://blog.nextbigsound.com/)
-- [Nuclear](https://github.com/nukeop/nuclear)
 - [ODG Prod](http://odgprod.com/)
 - [Pandora](http://www.pandora.com/restricted)
 - [Qobuz](https://www.qobuz.com)
@@ -96,6 +96,12 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [TuneIn](https://tunein.com/)
 - [ultimateclassicrock](http://ultimateclassicrock.com/talk-box-songs/)
 - [Ziklibrenbib](http://www.acim.asso.fr/ziklibrenbib/)
+
+[Go back to top](#awesome-music-listening-)
+
+## Music player app
+
+- [Nuclear](http://nuclear.gumblert.tech/) [[GitHub](https://github.com/nukeop/nuclear)]
 
 [Go back to top](#awesome-music-listening-)
 
