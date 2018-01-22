@@ -46,6 +46,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Free Music Archive](http://freemusicarchive.org/)
 - [Free Sounds](https://freesound.org)
 - [Ici Musique](http://www.icimusique.ca)
+- [Infinite Jukebox from Playlist Machinery](http://infinitejukebox.playlistmachinery.com/?trid=TRAMBJV148C46E6FE7)
 - [Jamendo](https://www.jamendo.com/?language=fr)
 - [Joox](http://www.joox.com/#limits)
 - [JukeDeck](https://www.jukedeck.com/)
