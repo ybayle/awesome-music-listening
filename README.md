@@ -21,6 +21,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Arte Sound system](http://creative.arte.tv/fr/soundsystem)
 - [A Soft Murmur](http://asoftmurmur.com/)
 - [Au Bout Du Fil](http://www.auboutdufil.com)
+- [Audials](https://www.microsoft.com/en-us/store/p/audials-music-zoom-2018/9nx5w10z9k8r)
 - [Audio Socket](https://www.audiosocket.com/)
 - [Aurous](https://aurous.me/)
 - [BandCamp](https://bandcamp.com/)
