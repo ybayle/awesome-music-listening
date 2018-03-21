@@ -114,9 +114,11 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Intelligent User Interfaces](http://iui.acm.org/2018/) and [Conference description](https://iui2018milc.github.io/)
 - [Dot Piano](https://dotpiano.com/B885mV6krBN)
 - [Dunya](https://github.com/MTG/dunya-desktop)
+- [Google Big Picture Music](https://research.google.com/bigpicture/music/#)
 - [Morphyre](http://www.morphyre.com/)
 - [Off The Staff](https://www.c82.net/offthestaff/?id=2)
 - [Phenicx](http://phenicx.com/)
+- [Real-Time Music Visualizations](https://github.com/michaelbrooks/music-visualization)
 - [Torus](https://mnmxmx.github.io/audio-visualizer-torus/dst/)
 
 [Go back to top](#awesome-music-listening-)
@@ -129,5 +131,6 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Awesome Music Production](https://github.com/adius/awesome-music-production)
 - [Awesome Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio)
 - [Awesome Sheet Music](https://github.com/adius/awesome-sheet-music)
+- [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 
 [Go back to top](#awesome-music-listening-)
