@@ -57,6 +57,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Linux Audio](https://wiki.linuxaudio.org/apps/categories/music_made_with_linux)
 - [Magenta](https://magenta.tensorflow.org/nsynth-instrument#fnref:n)
 - [Marmoset](https://www.marmosetmusic.com/)
+- [MegsRadio](https://www.megsradio.fm/)
 - [Mood Fuse](http://moodfuse.com/)
 - [Mubert](http://play.mubert.com/en/)
 - [Musically](http://musically.com/2017/01/06/7digital-pete-downton-musically-echo-hi-res-music/)
