@@ -65,6 +65,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Music In Cloud](https://www.musicincloud.com)
 - [Music Is My Sanctuary](http://www.musicismysanctuary.com/)
 - [Music Line](https://music.line.me/trend)
+- [Music Lynx](https://musiclynx.github.io) - Useful metadata gatherer and artists recommendations
 - [Music Machinery](https://musicmachinery.com/music-apis/)
 - [Music Map](http://musicmap.info/)
 - [Music Psychology](http://musicpsychology.co.uk/)
