@@ -75,6 +75,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Next Big Sound](https://blog.nextbigsound.com/)
 - [ODG Prod](http://odgprod.com/)
 - [Pandora](http://www.pandora.com/restricted)
+- [Panther](http://panther.audio) [[GitHub](https://github.com/joshwcomeau/panther)]
 - [Qobuz](https://www.qobuz.com)
 - [Qwant Music](https://www.qwant.com/music)
 - [Radiooooo](http://radiooooo.com/)
