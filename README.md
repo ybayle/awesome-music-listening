@@ -115,7 +115,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 
 ## Visualise the music you are listening to
 
-- [Beat Salon](http://beatsalon.xyz/serve/ikGyZh0VbPQ)
+- [Beat Salon](https://github.com/JooeunAhn/beatsalon)
 - [Clubber](https://github.com/wizgrav/clubber)
 - [Intelligent User Interfaces](http://iui.acm.org/2018/) and [Conference description](https://iui2018milc.github.io/)
 - [Dot Piano](https://dotpiano.com/B885mV6krBN)
