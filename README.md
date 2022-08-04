@@ -63,6 +63,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Mubert](http://play.mubert.com/en/)
 - [Musically](http://musically.com/2017/01/06/7digital-pete-downton-musically-echo-hi-res-music/)
 - [Music Bed](https://www.musicbed.com/)
+- [Music For Programming](https://musicforprogramming.net/latest/)
 - [Music In Cloud](https://www.musicincloud.com)
 - [Music Is My Sanctuary](http://www.musicismysanctuary.com/)
 - [Music Line](https://music.line.me/trend)
