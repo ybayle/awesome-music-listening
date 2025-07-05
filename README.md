@@ -51,6 +51,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Infinite Jukebox from Playlist Machinery](http://infinitejukebox.playlistmachinery.com/?trid=TRAMBJV148C46E6FE7)
 - [Jamendo](https://www.jamendo.com/?language=fr)
 - [Joox](http://www.joox.com/#limits)
+- [Jukebox](https://www.jukeboxhq.com)
 - [JukeDeck](https://www.jukedeck.com/)
 - [Keygen Music](http://keygenmusic.tk/)
 - [kkbox](https://www.kkbox.com/intl/index.php?area=intl)
