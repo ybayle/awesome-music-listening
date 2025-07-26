@@ -27,7 +27,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [BandCamp](https://bandcamp.com/)
 - [Ben Sound](http://www.bensound.com/)
 - [Blend](https://blend.io/)
-- [Brain](https://www1.brain.fm/)
+- [Brain](https://www.brain.fm/)
 - [CCMixter](http://ccmixter.org/)
 - [CD baby](https://www.cdbaby.com/Landing.aspx)
 - [cue Nation](http://cuenation.com/)
