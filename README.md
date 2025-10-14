@@ -112,6 +112,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 
 ## Music player app
 
+- [LyricGlow](https://github.com/ateymoori/lyricglow)
 - [Nuclear](http://nuclear.gumblert.tech/) [[GitHub](https://github.com/nukeop/nuclear)]
 
 [Go back to top](#awesome-music-listening-)
