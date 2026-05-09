@@ -131,6 +131,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Phenicx](http://phenicx.com/)
 - [Real-Time Music Visualizations](https://github.com/michaelbrooks/music-visualization)
 - [Torus](https://mnmxmx.github.io/audio-visualizer-torus/dst/)
+- [Vizz.fm](https://vizz.fm)
 
 [Go back to top](#awesome-music-listening-)
 
