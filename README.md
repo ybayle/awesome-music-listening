@@ -89,6 +89,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Reverb Nation](https://www.reverbnation.com/)
 - [Smart Sound](http://www.smartsound.com/)
 - [Song Freedom](https://www.songfreedom.com/home/library)
+- [SongSuey](https://songsuey.com)
 - [Sound Click](https://www.soundclick.com/default.cfm?)
 - [Sound Cloud](https://soundcloud.com)
 - [SourdOreille](http://sourdoreille.net/)
