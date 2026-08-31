@@ -30,6 +30,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Brain](https://www.brain.fm/)
 - [CCMixter](http://ccmixter.org/)
 - [CD baby](https://www.cdbaby.com/Landing.aspx)
+- [cosine.club](https://cosine.club/)
 - [cue Nation](http://cuenation.com/)
 - [Deep White Sound](http://deepwhitesound.com/)
 - [Deezer](https://www.deezer.com)
