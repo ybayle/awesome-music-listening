@@ -33,6 +33,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [cue Nation](http://cuenation.com/)
 - [Deep White Sound](http://deepwhitesound.com/)
 - [Deezer](https://www.deezer.com)
+- [Disco Magic](https://discomagic.ru/)
 - [Dood](https://dood.al/pinktrombone/)
 - [Douban FM](https://douban.fm/)
 - [Douban Music](https://music.douban.com/)
