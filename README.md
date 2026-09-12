@@ -106,6 +106,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Tubeats](http://tubeats.com/register)
 - [TuneIn](https://tunein.com/)
 - [ultimateclassicrock](http://ultimateclassicrock.com/talk-box-songs/)
+- [VprGrid](https://vprgrid.vercel.app) - Taste-first weekly new-album radar. No account; data stays on your machine. [[GitHub](https://github.com/YikesYellowPharmakon/vprgrid)]
 - [Ziklibrenbib](http://www.acim.asso.fr/ziklibrenbib/)
 
 [Go back to top](#awesome-music-listening-)
