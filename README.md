@@ -5,6 +5,9 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 
 ## Table of contents
 
+- [One Custom Song](https://onecustomsong.com) - Personalized AI songs, lyric posters, and music-video gifts from a memory or story.
+- [Songtell](https://songtell.art) - Create personalized AI songs and shareable music-video gifts from personal stories.
+
 - [Listen to music on the web](#listen-to-music-on-the-web)
 - [Music player app](#music-player-app)
 - [Visualise the music you are listening to](#visualise-the-music-you-are-listening-to)
