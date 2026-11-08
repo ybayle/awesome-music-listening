@@ -12,6 +12,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 
 ## Listen to music on the web
 
+- [72FM](https://72fm.com/)
 - [7Digital](https://www.7digital.com/)
 - [All Music](http://www.allmusic.com/)
 - [Amazon Music](https://music.amazon.com)
