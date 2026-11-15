@@ -38,6 +38,7 @@ You can contribute and suggest links by submitting an Issue or a Pull Request!
 - [Douban Music](https://music.douban.com/)
 - [Dramacore](http://www.dramacore.com/mp3.html)
 - [Echonest](http://the.echonest.com/showcase/)
+- [No Stairs Please](https://nostairsplease.com/) - Searchable directory of 3,100+ U.S. & Canadian live-music venues, touring routes, and booking contacts.
 - [Ektoplazm](http://www.ektoplazm.com/)
 - [EpiTonic](http://epitonic.com/)
 - [Every Noise Genre Map](http://everynoise.com/engenremap.html)
